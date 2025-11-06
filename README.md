@@ -131,7 +131,7 @@ Assistant: There were 1,247 economic class flights.
 (Time: 5.6s | Confidence: 0.96)
 ```
 
-See [`examples/example_queries.txt`](examples/example_queries.txt) for 40+ more examples.
+See [`examples/example_queries.md`](examples/example_queries.md) for 40+ more examples.
 
 ---
 
