@@ -605,7 +605,7 @@ If this work helps your research or project, please cite:
   year = {2024},
   publisher = {GitHub},
   url = {https://github.com/darrencxl0301/Schema-Action-Querying},
-  note = {Achieves 95\%+ accuracy on multi-table queries with 3B models via code-first action planning}
+  note = {Achieves 90\%+ accuracy on multi-table queries with 3B models via code-first action planning}
 }
 ```
 
