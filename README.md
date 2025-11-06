@@ -35,25 +35,10 @@
 ```bash
 pip install torch transformers pandas openpyxl bitsandbytes accelerate networkx
 ```
+or
 
-**Complete dependency list:**
-```python
-import argparse
-import random
-import time
-import numpy as np
-import torch
-import warnings
-import json
-import os
-import hashlib
-import pandas as pd
-from collections import OrderedDict
-from transformers import AutoTokenizer, AutoModelForCausalLM, BitsAndBytesConfig
-from dataclasses import dataclass
-from typing import List, Dict, Tuple, Optional, Any
-import re
-import networkx as nx
+```bash
+pip install -r requirements.txt
 ```
 
 **Hardware Requirements:**
